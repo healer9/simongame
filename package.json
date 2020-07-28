@@ -1,0 +1,15 @@
+{
+  "name": "simon-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d sg"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://healer9.github.io/simongame",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
